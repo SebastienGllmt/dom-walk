@@ -16,6 +16,9 @@
     "url": "https://github.com/Raynos/dom-walk/issues",
     "email": "raynos2@gmail.com"
   },
+  "files": [
+    "index.js",
+  ],
   "dependencies": {},
   "devDependencies": {
     "browserify-server": "~0.5.6"
